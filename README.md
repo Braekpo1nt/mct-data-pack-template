@@ -20,6 +20,7 @@ To use this template, follow GitHub's own instructions on [creating a repository
 3. Fill in the description of [pack.mcmeta](pack.mcmeta)
 4. Replace the contents of this [README.md](README.md) file with [README-TEMPLATE.md](README-TEMPLATE.md), and fill in the italicized parts with information about the Data Pack and how to use it
 5. Delete [README-TEMPLATE.md](README-TEMPLATE.md)
+6. Add a link to the new Data Pack repository to the [MCT Project](https://github.com/users/Braekpo1nt/projects/2/views/1) `README.md`
 
 ## Requirements
 You must follow these rules to maintain compatibility across MCT data packs:
