@@ -16,7 +16,7 @@ To use this template, follow GitHub's own instructions on [creating a repository
 - Rename the [data/mct-template/](data/mct-template/) directory to `mct-<THE NAME OF THIS REPOSITORY>`
     - e.g. `mct-hub` or `mct-score-manager`
     - > Important: this folder must be lowercase
-- Change `mct-template` to match the name of the folder you just renamed above in both [minecraft/tags/functions/load.json](minecraft/tags/functions/load.json) and [minecraft/tags/functions/tick.json](minecraft/tags/functions/tick.json)
+- Change `mct-template` to match the name of the folder you just renamed above in both [data/minecraft/tags/functions/load.json](data/minecraft/tags/functions/load.json) and [data/minecraft/tags/functions/tick.json](data/minecraft/tags/functions/tick.json)
 - Fill in the description of [pack.mcmeta](pack.mcmeta)
 - Go to the **Projects** tab of your new repository and link the project to the [MCT Project](https://github.com/users/Braekpo1nt/projects/2/views/1)
 - Add a link to the new Data Pack repository to the [MCT Project](https://github.com/users/Braekpo1nt/projects/2/views/1) `README.md`
