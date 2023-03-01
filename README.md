@@ -13,14 +13,15 @@ To use this template, follow GitHub's own instructions on [creating a repository
 
 
 ## Getting Started
-1. Rename the [data/mct-template/](data/mct-template/) directory to `mct-<THE NAME OF THIS REPOSITORY>`
+- Rename the [data/mct-template/](data/mct-template/) directory to `mct-<THE NAME OF THIS REPOSITORY>`
     - e.g. `mct-hub` or `mct-score-manager`
     - > Important: this folder must be lowercase
-2. Change `mct-template` to match the name of the folder you just renamed above in both [minecraft/tags/functions/load.json](minecraft/tags/functions/load.json) and [minecraft/tags/functions/tick.json](minecraft/tags/functions/tick.json)
-3. Fill in the description of [pack.mcmeta](pack.mcmeta)
-4. Replace the contents of this [README.md](README.md) file with [README-TEMPLATE.md](README-TEMPLATE.md), and fill in the italicized parts with information about the Data Pack and how to use it
-5. Delete [README-TEMPLATE.md](README-TEMPLATE.md)
-6. Add a link to the new Data Pack repository to the [MCT Project](https://github.com/users/Braekpo1nt/projects/2/views/1) `README.md`
+- Change `mct-template` to match the name of the folder you just renamed above in both [minecraft/tags/functions/load.json](minecraft/tags/functions/load.json) and [minecraft/tags/functions/tick.json](minecraft/tags/functions/tick.json)
+- Fill in the description of [pack.mcmeta](pack.mcmeta)
+- Go to the **Projects** tab of your new repository and link the project to the [MCT Project](https://github.com/users/Braekpo1nt/projects/2/views/1)
+- Add a link to the new Data Pack repository to the [MCT Project](https://github.com/users/Braekpo1nt/projects/2/views/1) `README.md`
+- Replace the contents of this [README.md](README.md) file with [README-TEMPLATE.md](README-TEMPLATE.md), and fill in the italicized parts with information about the Data Pack and how to use it
+- Delete [README-TEMPLATE.md](README-TEMPLATE.md)
 
 ## Requirements
 You must follow these rules to maintain compatibility across MCT data packs:
